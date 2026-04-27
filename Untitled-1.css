@@ -45,3 +45,8 @@ color: gold;
 transform: scale(1.2) translateX(-5px) ;
 text-shadow: 0 0 10px gold;
 }
+
+body{
+
+    background-color:black
+}
